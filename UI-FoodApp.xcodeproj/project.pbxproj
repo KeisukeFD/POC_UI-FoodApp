@@ -50,6 +50,7 @@
 		A7DAC25524C277A200732D4B = {
 			isa = PBXGroup;
 			children = (
+				A7DAC27B24C2784800732D4B /* README.md */,
 				A7DAC27024C277BC00732D4B /* Fonts */,
 				A7DAC26024C277A200732D4B /* UI-FoodApp */,
 				A7DAC25F24C277A200732D4B /* Products */,
@@ -68,7 +69,6 @@
 			isa = PBXGroup;
 			children = (
 				A7DAC27C24C2784800732D4B /* DetailFood.swift */,
-				A7DAC27B24C2784800732D4B /* README.md */,
 				A7DAC27224C277FD00732D4B /* Components */,
 				A7DAC26124C277A200732D4B /* UI_FoodAppApp.swift */,
 				A7DAC26324C277A200732D4B /* ContentView.swift */,
