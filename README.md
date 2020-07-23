@@ -10,4 +10,5 @@ Only a SwiftUI design example. The idea is to show how to do a SwiftUI design qu
 ### UI Credit
 - Design by: Saini UIUX Designer [link](https://www.uplabs.com/posts/happy-meals-food-delivery-app)
 
-
+![Image](images/HomeScreen.png)
+![Image](images/DetailScreen.png)
